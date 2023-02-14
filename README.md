@@ -5,4 +5,4 @@ This is definitely not my best work, since I made this in <48 hours and have jus
 I probably won't be documenting this, so apologies if you expect a documentation of what this does.
 
 
-
+I have attached a [.rbxm](FaceSelector.rbxm) file that you can download so you can see the full source.
