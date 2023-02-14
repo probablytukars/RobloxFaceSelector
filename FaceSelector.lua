@@ -4,11 +4,6 @@ local coreGui = game:GetService("CoreGui")
 
 local toolbarManager = require(script.Parent.toolbarManager)
 
-
-
-
-
-
 local gColor = Enum.StudioStyleGuideColor
 local gModifier = Enum.StudioStyleGuideModifier
 local v3 = Vector3.new
